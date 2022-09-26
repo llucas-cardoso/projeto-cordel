@@ -71,10 +71,10 @@ section.imagem >p{
     color: white;
 }
 section#flor{
-    background-image: url('/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg'); 
 }
 section#book{
-    background-image: url('/imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
 }
 footer{
     background-color: black;
